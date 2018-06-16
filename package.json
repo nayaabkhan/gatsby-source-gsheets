@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-source-gsheets",
+  "version": "1.0.0",
+  "main": "gatsby-node.js",
+  "author": "Nayaabkhan Khan <khannayaab@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.4",
+    "lodash": "^4.17.10"
+  },
+  "files": [
+    "gatsby-node.js",
+    "README.md"
+  ],
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "google-sheets"
+  ]
+}
